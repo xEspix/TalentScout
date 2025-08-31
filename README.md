@@ -1,5 +1,11 @@
 # TalentScout Hiring Assistant
 
+![Model Architecture](model_architecture.png)
+*Figure 1: TalentScout AI-powered model architecture*
+
+![Chat Interface](chat_interface.png)
+*Figure 2: TalentScout Chat Interface*
+
 ## Project Overview
 **TalentScout** is an AI-powered hiring assistant chatbot designed to streamline the technical hiring process.  
 This intelligent system conducts automated screening interviews by:
